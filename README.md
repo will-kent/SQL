@@ -1,3 +1,3 @@
-# SQLServerExamples
+# SQL
 
-Here for training code for courses
+Here for SQL Server and t-sql related content
